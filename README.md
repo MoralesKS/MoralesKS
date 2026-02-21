@@ -9,5 +9,6 @@
 </div>
 
 ## Estatísticas:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoralesKS&show_icons=true)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoralesKS&show_icons=true)
+</div>
