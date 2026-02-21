@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Habilidades
+## Minhas Habilidades:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>
 
-
-## Coisas
+## Estatísticas 
