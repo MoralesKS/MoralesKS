@@ -9,3 +9,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60"/>
 </div>
+
+### Minhas Estatisticas
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=MoralesKS&show_icons=true&theme=radical" />
